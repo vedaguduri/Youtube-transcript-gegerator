@@ -1,4 +1,4 @@
-#### YouTube Transcript Generator
+# YouTube Transcript Generator
 
 ## Overview
 
